@@ -1,0 +1,78 @@
+
+
+{	"guests": [23, 45, 155, 374, 22, 99.99, 100, 101, 115, 209] }
+============T1=====3,3==========
+Usage Premium: 3 (EUR 738.0)
+Usage Economy: 3 (EUR 167.99)
+============T2=====7,5==========
+Usage Premium: 6 (EUR 1054.0)
+Usage Economy: 4 (EUR 189.99)
+============T3=====2,7==========
+Usage Premium: 2 (EUR 583.0)
+Usage Economy: 4 (EUR 189.99)
+============T4=====7,1==========
+Usage Premium: 7 (EUR 1153.99)
+Usage Economy: 1 (EUR 45.0)
+============T5=====8,1==========
+Usage Premium: 8 (EUR 1198.99)
+Usage Economy: 1 (EUR 23.0)
+==========================================================
+{	"guests": [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0] }
+============T1=====3,3==========
+Usage Premium: 3 (EUR 27.0)
+Usage Economy: 3 (EUR 18.0)
+============T2=====7,5==========
+Usage Premium: 5 (EUR 40.0)
+Usage Economy: 5 (EUR 15.0)
+============T3=====2,7==========
+Usage Premium: 2 (EUR 19.0)
+Usage Economy: 7 (EUR 35.0)
+============T4=====7,1==========
+Usage Premium: 7 (EUR 49.0)
+Usage Economy: 1 (EUR 3.0)
+============T5=====8,1==========
+Usage Premium: 8 (EUR 52.0)
+Usage Economy: 1 (EUR 2.0)
+===========================================================
+{	"guests": [101.0, 102.0, 103.0, 104.0, 105.0, 106.0, 107.0, 108.0, 109.0, 110.0] }
+============T1=====3,3==========
+Usage Premium: 3 (EUR 327.0)
+Usage Economy: 0 (EUR 0.0)
+============T2=====7,5==========
+Usage Premium: 7 (EUR 749.0)
+Usage Economy: 0 (EUR 0.0)
+============T3=====2,7==========
+Usage Premium: 2 (EUR 219.0)
+Usage Economy: 0 (EUR 0.0)
+============T4=====7,1==========
+Usage Premium: 7 (EUR 749.0)
+Usage Economy: 0 (EUR 0.0)
+============T5=====8,1==========
+Usage Premium: 8 (EUR 852.0)
+Usage Economy: 0 (EUR 0.0)
+===================================================
+{	"guests": [23.0, 45.0, 155.0, 374.0] }
+============T1=====3,3==========
+Usage Premium: 2 (EUR 529.0)
+Usage Economy: 2 (EUR 68.0)
+============T2=====7,5==========
+Usage Premium: 2 (EUR 529.0)
+Usage Economy: 2 (EUR 68.0)
+============T3=====2,7==========
+Usage Premium: 2 (EUR 529.0)
+Usage Economy: 2 (EUR 68.0)
+============T4=====7,1==========
+Usage Premium: 3 (EUR 574.0)
+Usage Economy: 1 (EUR 23.0)
+============T5=====8,1==========
+Usage Premium: 3 (EUR 574.0)
+Usage Economy: 1 (EUR 23.0)
+
+
+
+
+
+
+
+
+
